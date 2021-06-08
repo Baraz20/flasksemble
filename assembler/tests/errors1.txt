@@ -1,0 +1,945 @@
+
+------------------------------------------
+ERROR: at line 5
+the first character of a label must be an alphabetic character.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 5
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 6
+The name of the label exceeds the maximum length of: 30
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 7
+The name of the label exceeds the maximum length of: 30
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 8
+The label name must contain only alphanumeric characters.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 9
+The label already exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 12
+A .data instrction was given but the data syntax is incorect.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 13
+A .data instrction was given but the data syntax is incorect.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 14
+A .data instruction was given but the data type is not a valid number
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 15
+A .data instrction was given but the data syntax is incorect.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 16
+A .data instrction was given but the data syntax is incorect.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 17
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 18
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 19
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 20
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 21
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 22
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 23
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 28
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 29
+The provided string is in invalid format.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 30
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 33
+An instruction was given but it is missing arguments.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 34
+A .data instruction was given but the data type is not a valid number
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 35
+A .data instruction was given but the data type is not a valid number
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 36
+A .data instruction was given but the data type is not a valid number
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 37
+A .data instruction was given but the data type is not a valid number
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 38
+A .data instruction was given but the data type is not a valid number
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 39
+A .data instruction was given but the data type is not a valid number
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 42
+A .data instruction was given but the data type is not a valid number
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 43
+A .data instruction was given but the data type is not a valid number
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 47
+An instruction was given but it is missing arguments.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 48
+An instruction was given but it is missing arguments.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 49
+The provided string is in invalid format.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 50
+The provided string is in invalid format.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 53
+The provided string is in invalid format.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 56
+A .data instruction was given but the data type is not a valid number
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 58
+An .extern was given with an invalid label.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 59
+An .extern was given with an invalid label.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 60
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 61
+Invalid arguments with given command.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 62
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 63
+Invalid arguments with given command.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 64
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 65
+Invalid arguments with given command.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 66
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 67
+Invalid arguments with given command.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 68
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 69
+Invalid arguments with given command.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 70
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 71
+Invalid arguments with given command.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 72
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 73
+Invalid arguments with given command.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 74
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 75
+Invalid arguments with given command.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 76
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 77
+Invalid arguments with given command.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 78
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 79
+Invalid arguments with given command.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 80
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 81
+Invalid arguments with given command.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 82
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 83
+Invalid arguments with given command.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 84
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 85
+Invalid arguments with given command.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 86
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 87
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 88
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 89
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 90
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 91
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 92
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 93
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 94
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 95
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 96
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 97
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 98
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 99
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 100
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 101
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 102
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 103
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 104
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 105
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 106
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 107
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 108
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 109
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 110
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 111
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 112
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 113
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 114
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 115
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 118
+An instruction was given but it is missing arguments.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 119
+An instruction was given but it is missing arguments.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 120
+An .extern was given but a label is missing.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 121
+An .extern was given but a label is missing.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 122
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 123
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 124
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 125
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 126
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 127
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 128
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 129
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 130
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 131
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 132
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 133
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 134
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 135
+Line missing command/instruction
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 136
+Line missing command/instruction
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 137
+Line missing command/instruction
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 138
+Line missing command/instruction
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 139
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 140
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 141
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 142
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 143
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 144
+Line missing command/instruction
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 145
+Line missing command/instruction
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 146
+Line missing command/instruction
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 147
+Line missing command/instruction
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 148
+Line missing command/instruction
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 149
+Line missing command/instruction
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 150
+Line missing command/instruction
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 151
+Line missing command/instruction
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 154
+The given command doesn't seem to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 155
+The given instruction doesn't apear to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 156
+The given instruction doesn't apear to exist.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 160
+The given source (second) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 161
+The given source (second) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 162
+The given source (second) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 163
+The given source (second) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 164
+The given destination (first) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 165
+The given destination (first) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 166
+The given source (second) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 167
+The given source (second) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 168
+The given source (second) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 169
+The given source (second) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 170
+The given source (second) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 171
+The given destination (first) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 172
+The given destination (first) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 173
+The given source (second) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 174
+The given source (second) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 175
+The given source (second) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 176
+The given source (second) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 177
+The given destination (first) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 178
+The given destination (first) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 179
+The given source (second) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 180
+The given source (second) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 181
+The given source (second) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 182
+The given source (second) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 183
+The given source (second) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 184
+The given source (second) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 185
+The given source (second) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 186
+The given source (second) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 187
+The given source (second) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 188
+The given source (second) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 189
+The given source (second) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 190
+The given source (second) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 191
+The given destination (first) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 192
+The given destination (first) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 193
+The given destination (first) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 194
+The given destination (first) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 195
+The given destination (first) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 196
+The given destination (first) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 197
+The given destination (first) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 198
+The given destination (first) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 199
+The given destination (first) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 200
+The given destination (first) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 201
+The given destination (first) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 202
+The given destination (first) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 203
+The given destination (first) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 204
+The given destination (first) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 205
+The given destination (first) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 206
+The given destination (first) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 207
+The given destination (first) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 208
+The given destination (first) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 209
+The given destination (first) argument type is invalid.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 210
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 211
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 212
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 213
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 214
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 215
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 216
+The arguments are formated incorrectly.
+------------------------------------------
+
+------------------------------------------
+ERROR: at line 217
+The arguments are formated incorrectly.
+------------------------------------------

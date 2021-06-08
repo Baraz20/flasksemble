@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+{% block content %}
+<h1>OUTPUT</h1>
+
+{% for file in files %}
+<article class="media content-section">
+    <div class="media-body">
+        {% if file is not None %}
+        <h2> OUTPUT </a></h2>
+        <p class="article-content editing">{{ file }}</p>
+        {% endif %}
+    </div>
+</article>
+{% endfor %}
+{% endblock %}

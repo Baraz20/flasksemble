@@ -1,0 +1,67 @@
+{% extends "layout.html" %}
+{% block content %}
+{% if current_user.is_authenticated %}
+<h1>LOGGED</h1>
+<div class="border-top pt-3">
+ TEXT AREA HERE!
+</div>
+{% else %}
+<h1>NOT LOGGED</h1>
+<div class="border-top pt-3">
+  <div class="content-section">
+    <h3>To use the site's functionlity you must be logged in</h3>
+    <p class="text-muted">Login to an existing account!</p>
+    <a class="btn btn-outline-info" href="{{ url_for('login') }}">Login</a>
+    <br><br>
+    <p class="text-muted">Or create a new account here!</p>
+    <a class="btn btn-outline-success" href="{{ url_for('register') }}">Sign Up</a>
+  </div>
+</div>
+<small class="text-muted">
+  To Learn More About The Site: <a class="ml-2" href="{{ url_for('about') }}">About Page</a>
+</small>
+{% endif %}
+
+{% if current_user.is_authenticated %}
+{% block body %}
+<div class="body-section">
+    <form method="POST" action="">
+        {{ form.hidden_tag() }}
+        <fieldset class="form-group">
+            <legend class="border-bottom mb-4">{{ legend }}</legend>
+            <div class="form-group">
+                {{ form.file_name.label(class="form-control-label") }}
+                {% if form.file_name.errors %}
+                    {{ form.file_name(class="form-control form-control-lg is-invalid") }}
+                    <div class="invalid-feedback">
+                        {% for error in form.file_name.errors %}
+                            <span>{{ error }}</span>
+                        {% endfor %}
+                    </div>
+                {% else %}
+                    {{ form.file_name(class="form-control form-control-lg") }}
+                {% endif %}
+            </div>
+            <div class="form-group">
+                {{ form.body.label(class="form-control-label") }}
+                {% if form.body.errors %}
+                    {{ form.body(class="form-control form-control-lg is-invalid") }}
+                    <div class="invalid-feedback">
+                        {% for error in form.body.errors %}
+                            <span>{{ error }}</span>
+                        {% endfor %}
+                    </div>
+                {% else %}
+                    {{ form.body(class="editing form-control form-control-lg") }}
+                {% endif %}
+            </div>
+        </fieldset>
+        <div class="form-group">
+            {{ form.submit(class="btn btn-outline-info") }}
+        </div>
+    </form>
+</div>
+{% endblock body %}
+{% endif %}
+
+{% endblock content %}
